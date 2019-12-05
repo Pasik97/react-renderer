@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should display nie siema 1`] = `
+<div>
+  nie siema
+</div>
+`;
+
+exports[`App should display siema 1`] = `
+<div>
+  siema
+</div>
+`;
